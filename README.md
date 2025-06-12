@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @smei08
+- 👋 Hi, I’m Stephanie
 - 🌱 I’m currently learning Full-Stack Engineer Path.
 - 💞️ I’m looking to collaborate on different projects to gain more experiences and knowledges.
 - 📫 How to reach me, smei826@gmail.com
